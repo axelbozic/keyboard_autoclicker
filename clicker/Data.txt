@@ -1,0 +1,2 @@
+Delay:0.05
+Keyboard_Character:q
